@@ -1,0 +1,4 @@
+resources/img/skin3.png
+resources/img/a33.png
+0
+1

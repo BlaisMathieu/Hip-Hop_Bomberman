@@ -1,0 +1,4 @@
+resources/img/a00.png
+resources/img/a33.png
+resources/img/a44.png
+resources/img/a66.png
